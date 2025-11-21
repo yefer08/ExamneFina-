@@ -140,4 +140,4 @@ Este proyecto es para fines educativos.
 
 ## 👤 Autor
 
-[Tu Nombre] - [Tu Matrícula]
+[Yefer yesid mosquera cordoba]
