@@ -130,8 +130,8 @@ service cloud.firestore {
 
 ## 🎓 Datos del Estudiante
 
-- **Matrícula:** [TU_MATRICULA]
-- **Nombre:** [TU_NOMBRE]
+- **Matrícula:** [TEST-001]
+- **Nombre:** [Yefer yesid mosquera cordoba]
 - **Curso:** Desarrollo Web con React JS
 
 ## 📄 Licencia
